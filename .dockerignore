@@ -1,0 +1,32 @@
+# Ignore Python cache files
+__pycache__
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+.venv
+venv
+env
+
+# Ignore local development and configuration files
+.idea
+.vscode
+*.log
+#*.env
+
+# Ignore git and version control folders
+.git
+.gitignore
+
+# Ignore test files and folders
+tests
+coverage
+*.cover
+
+# Ignore documentation
+docs
+*.md
+
+# Ignore any other unnecessary files
+*.DS_Store
+*.swp
